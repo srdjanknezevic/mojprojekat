@@ -51,6 +51,7 @@
 </div>
 
 <?php
+error_reporting(0);   
 
 $broj1 = $_GET['broj1'];
 $broj2 = $_GET['broj2'];
